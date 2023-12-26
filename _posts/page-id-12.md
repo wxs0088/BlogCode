@@ -2,7 +2,7 @@
 title: 释放 Gunicorn、Nginx 和 Daphne 在服务器中对 Django 部署中的威力
 date: 2023-08-17 19:14:41
 img: https://wangxs020202.gitee.io/pbad/background/page_12.png
-top: true
+top: false
 summary: 通过使用Gunicorn、Nginx 和 Daphne 来部署 Django 项目，可以大大提高网站的性能。
 categories: Django
 tags:
