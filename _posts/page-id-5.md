@@ -2,7 +2,7 @@
 title: "掌握Redis集群：使用Docker搭建Redis高可用Cluster集群环境"
 date: 2023-06-14 09:49:44
 img: https://wangxs020202.gitee.io/pbad/background/page_5.png
-top: true
+top: false
 summary: 本文将介绍Redis的三种集群模式，以及使用Docker搭建Redis高可用Cluster集群环境。
 categories: Redis
 tags:
