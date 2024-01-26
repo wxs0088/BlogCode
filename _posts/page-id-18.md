@@ -175,8 +175,6 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 在`Settings`文件夹下的`develop.py`和`produce.py`文件中配置数据库。
 
-配置如下：
-
 文件内容如下：
 
 `develop.py`
@@ -279,7 +277,7 @@ class User(AbstractUser):
 AUTH_USER_MODEL = "users.User"
 ```
 
-#### 3.3 编写序列化器
+#### 3.2 编写序列化器
 
 在`users`文件夹下创建`serializer.py`文件，编写如下内容：
 
@@ -297,7 +295,7 @@ class UserSerializer(serializers.ModelSerializer):
 ```
 
 
-#### 3.2 数据库迁移
+#### 3.3 数据库迁移
 
 ```bash
 python manage.py makemigrations
