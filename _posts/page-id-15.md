@@ -6,13 +6,13 @@ top: false
 summary: 本文将介绍如何使用Docker-Compose来部署Elasticsearch和Kibana。
 categories: Elasticsearch
 tags:
-- Elasticsearch
-- Kibana
-- Docker
-- Docker-Compose
-- 容器
-- 搜索引擎
-- 智能客服
+  - Elasticsearch
+  - Kibana
+  - Docker
+  - Docker-Compose
+  - 容器
+  - 搜索引擎
+  - 智能客服
 ---
 
 ### 一、写在前面
