@@ -40,8 +40,7 @@ tags:
 
 ##### 4.1.1 后端环境准备
 
-这里我是用的使用anaconda来管理Python环境，大家可以参考[最大化服务器性能：在Ubuntu 22.04上逐步指南安装Anaconda](https://sirxs.cn/2023/04/26/ubuntu-an-zhuang-anaconda/)
-这篇文章来安装anaconda。这里我使用的是Python3.10版本。
+这里我是用的使用anaconda来管理Python环境，大家可以参考[最大化服务器性能：在Ubuntu 22.04上逐步指南安装Anaconda](https://sirxs.cn/2023/04/26/ubuntu-an-zhuang-anaconda/)这篇文章来安装anaconda。这里我使用的是Python3.10版本。
 
 ##### 4.1.2 前端环境准备
 
