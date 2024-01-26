@@ -39,8 +39,8 @@ sudo mysql_secure_installation
 ```
 
 `mysql_secure_installation`脚本设置的东西：更改root密码、移除MySQL的匿名用户、禁止root远程登录、删除test数据库和重新加载权限。
-询问是否要更改root密码时，看情况是否需要更改；**循环是否禁止远程登录时，要输入NO，否则会导致后面用navicat远程连接mysql失败。
-** 其余的问题直接回车，使用上面的这些选项可以提高MySQL的安全。
+询问是否要更改root密码时，看情况是否需要更改；**循环是否禁止远程登录时，要输入NO，否则会导致后面用navicat远程连接mysql失败。** 
+其余的问题直接回车，使用上面的这些选项可以提高MySQL的安全。
 
 ### 四、使用Mysql8.0
 
